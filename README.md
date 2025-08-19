@@ -1,12 +1,3 @@
-¡Claro\! Con gusto te proporciono el README completo y listo para que lo copies, pegues y luego subas tu proyecto a GitHub.
-
------
-
-### 📄 1. Crea el Archivo README
-
-Abre tu editor de código (IntelliJ) y crea un nuevo archivo en la raíz de tu proyecto llamado **`README.md`**. Luego, copia y pega el siguiente contenido en él:
-
-````markdown
 # 💬 Foro Hub API
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
